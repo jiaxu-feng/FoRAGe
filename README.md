@@ -9,6 +9,8 @@ The demonstrable commercial value of high Click-Through Rates (CTR) imagery for 
 
 <br>
 
+![architecture](fig/architecture.png)
+
 FoRAGe leverages the following pretrained models:
 - [openai/clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32)
 - [hfl/chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext)
