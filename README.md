@@ -1,6 +1,6 @@
 # FoRAGe
 
-[Paper] FoRAGe: High CTR Food Image Background Synthesis with Retrieval-Augmented Diffusion Model
+[KDD '25 Poster] FoRAGe: High CTR Food Image Background Synthesis with Retrieval-Augmented Diffusion Model
 
 <details>
 <summary>[Abstract]</summary>
@@ -11,7 +11,7 @@ The demonstrable commercial value of high Click-Through Rates (CTR) imagery for 
 
 ![architecture](fig/architecture.png)
 
-FoRAGe leverages the following pretrained models:
+We extend our sincere thanks to the developers and maintainers of the open-source projects that made this work possible:
 - [openai/clip-vit-base-patch32](https://huggingface.co/openai/clip-vit-base-patch32)
 - [hfl/chinese-roberta-wwm-ext](https://huggingface.co/hfl/chinese-roberta-wwm-ext)
 - [aspis/swin-finetuned-food101](https://huggingface.co/aspis/swin-finetuned-food101)
