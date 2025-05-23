@@ -1,6 +1,6 @@
 # FoRAGe
 
-[KDD '25 Applied Data Science Track] FoRAGe: High CTR Food Image Background Synthesis with Retrieval-Augmented Diffusion Model
+[KDD '25 Applied Data Science Track] FoRAGe: High-CTR Food Image Synthesis with Retrieval-Augmented Diffusion Model
 
 <details>
 <summary>[Abstract]</summary>
